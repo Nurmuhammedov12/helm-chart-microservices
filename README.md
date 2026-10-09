@@ -1,4 +1,4 @@
-# Helm Charts for the Online Boutique Microservices
+# Helm Charts for Microservices
 
 Deploy Google's [Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo) (microservices-demo `v0.8.0`) to Kubernetes using **two reusable Helm charts** instead of one large plain-YAML manifest.
 
